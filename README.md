@@ -1,4 +1,4 @@
-![Stacy Clements intro](https://github.com/SierraMyk/SierraMyk/blob/126038f17df6a0ac260d92ce89ac2a93c8e033f1/Stacy%20Clements%20intro.jpg) "Stacy M. Clements")
+<img src="https://github.com/SierraMyk/SierraMyk/blob/126038f17df6a0ac260d92ce89ac2a93c8e033f1/Stacy%20Clements%20intro.jpg" alt="Stacy Clements intro" title="Stacy Clements intro">
 
 
 <!--
